@@ -1,0 +1,4 @@
+Note: this doesn't work yet. It's only been tested on WebKit, and it seems like
+  there might be a bug with @transform & SVGTransformList on WebKit that
+  prevents it from actually panning and zooming (it's only functionality
+  right now).
